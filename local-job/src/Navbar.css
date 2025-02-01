@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+.navdiv{
+    background-color: lightslategray;
+    padding: 15px 0;
+}
+
+.navdiv>a{
+    color: white;
+    margin-left: 20px;
+}

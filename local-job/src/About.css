@@ -1,0 +1,19 @@
+.aboutdiv{
+    display: flex;
+    flex-direction: column;
+    padding: 20px 0 20px 15px;
+}
+
+.aboutdiv>h1{
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: 10px;
+}
+
+.aboutdiv>p{
+    font-size: 16px;
+}
+
+h1+p{
+    margin-top: 5px;
+}

@@ -1,0 +1,59 @@
+
+.fulldiv{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(179, 177, 177);;
+}
+
+.carddiv{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.carddiv>h1{
+    font-size: 25px;
+    color: white;
+    font-weight: 400;
+    background-color: rgb(180, 27, 27);
+    min-width: 250px;
+    text-align: center;
+    padding: 4px 20px;
+    border: 2px solid gray;
+    border-radius: 10px;
+}
+
+.inputdiv{
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    margin-top: 10px;
+    min-width: 250px;
+    padding: 15px 20px;
+    border: 2px solid gray;
+    border-radius: 10px;
+}
+
+label{
+    font-size: 20px;
+}
+select{
+    font-size: 15px;
+    margin-bottom: 10px;
+    padding: 5px;
+}
+
+.inputdiv>button{
+    font-size: 15px;
+    color: white;
+    font-weight: 400;
+    background-color: rgb(180, 27, 27);;
+    min-width: 50px;
+    text-align: center;
+    padding: 5px 0;
+    border: 2px solid gray;
+    border-radius: 10px;
+}

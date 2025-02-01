@@ -1,0 +1,35 @@
+.jobcarddiv{
+    width: 300px;
+    margin: 20px 0;
+    background-color: azure;
+    display: flex;
+    padding: 10px 20px;
+    border: 2px solid gray;
+    border-radius: 10px;
+}
+
+.detaildiv{
+    width: 60%;
+}
+
+.detaildiv>h1, .detaildiv>p{
+    font-size: 16px;
+}
+
+.contactdiv{
+    width: 40%;
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-evenly;
+}
+
+
+.iconc{
+    font-size: 20px;
+    color: blue;
+}
+
+.iconw{
+    font-size: 20px;
+    color: rgb(19, 248, 95);
+}
