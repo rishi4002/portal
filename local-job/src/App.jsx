@@ -1,6 +1,6 @@
 import React from 'react';
 import Navbar from './Navbar.jsx';
-import Footer from './footer.jsx';
+import Footer from './Footer.jsx';
 import Jobpage from './Jobpage.jsx';
 import Inputpage from './Inputpage.jsx';
 import About from './About.jsx';
